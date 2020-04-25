@@ -1,0 +1,72 @@
+Note:
+> Data
+- Concept
+@Visualization
+
+
+
+SECTION 2. BASICS, YOUR FIRST BAR CHART
+>Connect to CSV
+-Calc Field
+@Barchart
+@Colours
+@Labels
+@Formatting
+@Exporting
+
+
+SECTION 3. TIMESERIES,AGGREGATION,FILTERS
+>Excel File
+>Data Extract
+-Timeseries as Measurement
+-Timeseries as Dimension
+-Aggregation
+-Granularity
+-Filter
+-Quick Filter
+@Line chart
+@Shapes
+@Show-me
+@Area Chart
+@Highlighting
+
+
+SECTION 4. MAPS, SCATTERPLOTS, FIRST DASHBOARD
+>Data Joins
+-Hierarhies
+-Filter on multiple sheets
+-Dashboard: Quick filter
+-Dashboard: Filter actions
+-Dashboard: Highlight actions
+@Map
+@Circles on map
+@ScatterPlot
+@Dashboard: Layout
+
+
+SECTION 5. JOINING, BLENDING, DUAL AXIS CHART
+>Join Theory
+>Blending Data
+>Joining vs Blending
+-Calc Field in a Blend
+@Dual axis charting
+
+
+SECTION 6. TABLE CALCULATION, ADVANCED DASHBOARD, STORYTELLING
+-Geographical Roles
+-Table Calculation
+-Bins
+-Parameters
+@Filled map
+@Pie Chart
+@Distribution
+@Treemap
+@Storyline
+
+
+SECTION 7. ADVANCED DATA PREPARATION
+-Data interpreter
+-Pivot
+-Splitting tools
+-Metadata grid
+-Fixing map errors
